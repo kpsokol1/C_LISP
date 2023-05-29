@@ -1,0 +1,1 @@
+(+ 6 ()) ;Operands must be numbers. [line 1]

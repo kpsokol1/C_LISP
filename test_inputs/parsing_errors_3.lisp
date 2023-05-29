@@ -1,0 +1,1 @@
+(defin function a ()) ;[line 1] Error at 'defin': defin is not a function name
